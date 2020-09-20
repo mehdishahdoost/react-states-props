@@ -1,3 +1,14 @@
-h1, p {
-  font-family: Lato;
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  min-height: 140vh;
+  background-color: blue;
+  color: white;
+  display: flex;
+  justify-content: space-around;
+  
 }
